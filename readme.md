@@ -21,10 +21,11 @@ python -m venv venv
 
 3. If Some Error Occured
 
-```press windows+x
-   select terminal(admin)
-   Set-ExecutionPolicy RemoteSigned
-   restart the vsc
+```
+   PRESS          windows+x
+   SELECT         Terminal(Admin)
+   RUN THE CMD    Set-ExecutionPolicy RemoteSigned
+   RESTART THE VSCode
 ```
 
 4. Activate virtual environment
