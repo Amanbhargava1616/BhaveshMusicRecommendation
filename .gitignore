@@ -1,0 +1,45 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# Compiled Python files
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+node_modules/
+dist/
+
+# Logs and data
+*.log
+*.csv
+*.sqlite
+
+# Environment-specific files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Python packaging files
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Ignore the FastAPI documentation
+docs/_build/
+
+# Ignore generated files
+generated/
+
+# Ignore test results
+test_results/
