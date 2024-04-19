@@ -38,3 +38,6 @@ cd src
 uvicorn app:app --reload
 ```
 This commad stars the api in a development mode . Any changes to the code will restart the server.
+
+
+7.Test the Code at [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
