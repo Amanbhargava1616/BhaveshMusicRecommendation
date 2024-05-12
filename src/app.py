@@ -63,7 +63,10 @@ def response(user_response):
         robo_response = "I am sorry! I don't understand you"
         return robo_response
     else:
-        robo_response = sent_tokens[idx]
+        robo_response_record = sent_tokens[idx]
+        robo_response=random.choice(robo_response_record.split('\n'))
+        while(robo_response == '.' or robo_response == user_response):
+            robo_response=random.choice(robo_response_record.split('\n'))
         return robo_response
 
 @app.post("/")
