@@ -1,24 +1,39 @@
 Happy
-marshmello happy
-takeaway
-sunset lover
+"Happy" by Pharrell Williams
+"Don't Worry, Be Happy" by Bobby McFerrin
+"Walking on Sunshine" by Katrina and the Waves
+"Good Vibrations" by The Beach Boys
+"I Gotta Feeling" by The Black Eyed Peas
 .
 
 Trippy
-vapo vapo
+"Lucy in the Sky with Diamonds" by The Beatles
+"White Rabbit" by Jefferson Airplane
+"Echoes" by Pink Floyd
+"Tomorrow Never Knows" by The Beatles
+"Time" by Pink Floyd
 .
 
 Emotional
-wishes
+"Hallelujah" by Leonard Cohen
+"Someone Like You" by Adele
+"Fix You" by Coldplay
+"Yesterday" by The Beatles
+"All of Me" by John Legend
 .
 
 Sad
-baarishein
-husn
-let her go
+"Someone Like You" by Adele
+"Hurt" by Johnny Cash (originally by Nine Inch Nails)
+"Yesterday" by The Beatles
+"Tears in Heaven" by Eric Clapton
+"Nothing Compares 2 U" by Sinéad O'Connor (originally by Prince)
 .
 
 Angry
-hail
-afterhouse
+"Break Stuff" by Limp Bizkit
+"So What" by Pink
+"Before He Cheats" by Carrie Underwood
+"Down with the Sickness" by Disturbed
+"You Oughta Know" by Alanis Morissette
 .
